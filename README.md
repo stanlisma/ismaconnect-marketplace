@@ -1,2 +1,3 @@
-# ismaconnect-marketplace
-Digital notice board for Fort McMurray shift workers
+# IsmaConnect Marketplace
+
+Digital notice board for Fort McMurray shift workers.
